@@ -10,16 +10,16 @@ Conecte-se comigo em outras plataformas:
 
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/'japoneslofy)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@japaskt666)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Japa)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valdirjr-dev/)
 
 ## 💻 Tecnologias:
 
 Minha pilha tecnológica é diversificada e inclui:
 
-- Linguagens de programação como C, C++, Python e JavaScript.
-- Frameworks como Angular.js, Apollo GraphQL e Chakra UI.
+- Linguagens de programação como PHP, Go, Python e JavaScript.
+- Frameworks como Angular.js, React.js, Next.js e etc.
 - Ferramentas como Azure, Netlify e Git.
-- Bancos de dados como MySQL, SQLite e Amazon DynamoDB.
+- Bancos de dados como MySQL, SQLite, MongoDB e PostGreSQL.
 
 ## ⚙️ Fatos Interessantes:
 
@@ -31,13 +31,6 @@ Dê uma olhada em algumas estatísticas do meu perfil no GitHub:
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Japinha&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 
-## 📚 Projetos:
-
-Confira alguns dos meus projetos recentes:
-
-1. [Nome do Projeto](link_do_projeto) - Descrição breve do projeto.
-2. [Nome do Projeto](link_do_projeto) - Descrição breve do projeto.
-3. [Nome do Projeto](link_do_projeto) - Descrição breve do projeto.
 
 ## 📊 Contagem de Visitantes:
 
