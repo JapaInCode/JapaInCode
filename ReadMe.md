@@ -2,7 +2,7 @@
 
 Olá, sou um desenvolvedor de sites com foco em criar soluções excepcionais para meus clientes como freelancer. Com mais de três anos de experiência nesse ramo dinâmico, estou sempre em busca de maneiras de aprimorar minhas habilidades e conhecimentos.
 
-Meu nome é Japa, um nome pelo qual sou conhecido no mundo digital. Tenho 21 anos e sou apaixonado por criar experiências digitais memoráveis que atendam às necessidades específicas de cada projeto.
+Meu nome é Japa, um nome pelo qual sou conhecido no mundo digital. Tenho 22 anos e sou apaixonado por criar experiências digitais memoráveis que atendam às necessidades específicas de cada projeto.
 
 ## 🌐 Redes Sociais:
 
