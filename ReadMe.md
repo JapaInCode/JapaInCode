@@ -10,7 +10,6 @@ Conecte-se comigo em outras plataformas:
 
 - [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/'japoneslofy)
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@japaskt666)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/valdirjr-dev/)
 
 ## 💻 Tecnologias:
 
@@ -34,6 +33,6 @@ Dê uma olhada em algumas estatísticas do meu perfil no GitHub:
 
 ## 📊 Contagem de Visitantes:
 
-![Contagem de Visitantes](https://visitcount.itsvg.in/api?id=Japinha&icon=0&color=0)
+![Contagem de Visitantes](https://visitcount.itsvg.in/api?id=Japinha&icon=0&color=1115)
 
 Sinta-se à vontade para entrar em contato comigo para colaborações, projetos ou apenas para uma conversa interessante. Mal posso esperar para ouvir de você!
