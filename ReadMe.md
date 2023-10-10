@@ -33,6 +33,6 @@ Dê uma olhada em algumas estatísticas do meu perfil no GitHub:
 
 ## 📊 Contagem de Visitantes:
 
-![Contagem de Visitantes](https://visitcount.itsvg.in/api?id=Japinha&icon=0&color=1115)
+![Contagem de Visitantes](https://visitcount.itsvg.in/api?id=Japinha&icon=0&color=0)
 
 Sinta-se à vontade para entrar em contato comigo para colaborações, projetos ou apenas para uma conversa interessante. Mal posso esperar para ouvir de você!
