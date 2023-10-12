@@ -33,6 +33,16 @@ Minha pilha tecnológica é diversificada e inclui:
 
 Esta combinação de tecnologias e experiência me permite enfrentar desafios e criar soluções que atendem às necessidades dos meus clientes e usuários.
 
+## Estudos para um futuro próximo
+
+Neste momento, estou focando meus estudos em C, C++, C# e Assembly por motivos educacionais. Estou interessado em aprofundar meu conhecimento nessas linguagens para entender melhor como os malwares são desenvolvidos e para criar ferramentas de segurança para combater ameaças. 
+
+Lembre-se de que o meu objetivo é apenas o aprendizado e a pesquisa, sem quaisquer intenções maliciosas. A segurança cibernética é um campo importante, e estou comprometido em utilizá-lo de forma ética.
+
+Fique à vontade para entrar em contato comigo para discutir essas áreas de estudo ou colaborações em projetos relacionados.
+
+🔒👾
+
 ## 📊 Contagem de Visitantes:
 
 ![Contagem de Visitantes](https://visitcount.itsvg.in/api?id=Japinha&icon=0&color=1&white=1)
