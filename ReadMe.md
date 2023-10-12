@@ -45,6 +45,6 @@ Fique à vontade para entrar em contato comigo para discutir essas áreas de est
 
 ## 📊 Contagem de Visitantes:
 
-![Contagem de Visitantes](https://visitcount.itsvg.in/api?id=Japinha&icon=0&color=1&white=1)
+![](https://visitcount.itsvg.in/api?id=Japinha Script&icon=0&color=0)
 
 @JapaInCode
