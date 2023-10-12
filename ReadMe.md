@@ -45,7 +45,6 @@ Fique à vontade para entrar em contato comigo para discutir essas áreas de est
 
 ## 📊 Contagem de Visitantes:
 
-![contagem Hacker](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo-name&style=digital&color=008000&background=000000&labelColor=00FF00)
-
+![Contagem de Visitantes Digital Hacker](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo-name&style=digital&color=008000&labelColor=000000)
 
 @JapaInCode
