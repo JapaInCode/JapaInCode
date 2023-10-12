@@ -45,6 +45,7 @@ Fique à vontade para entrar em contato comigo para discutir essas áreas de est
 
 ## 📊 Contagem de Visitantes:
 
-![Contagem de Visitantes](https://visitcount.itsvg.in/api?id=Japinha&icon=0&color=1&white=1&style=digital&v2=1&color2=2)
+![Contagem de Visitantes Digital Hacker](https://visitor-badge.glitch.me/badge?page_id=your-username.your-repo-name&style=digital&color=008000&background=000000&labelColor=00FF00)
+
 
 @JapaInCode
